@@ -1,8 +1,31 @@
-# React + Vite
+# Agency Website - React Js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the project
+
+This is an responsive website created using React + Vite and Tailwind CSS. 
+
+### Built with
+
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+
+## Technologies used
+
+### Front end
+- VS Code
+- React + Vite
+- Tailwind CSS
+
+### Deployment in production
+- Front end web: Netlify
+
+## Settings and improvements
+
+The project is still in development and the next updates will focus on the following tasks:
+
+- [x] Navbar component
+- [ ] Header component
+- [ ] Home component
+- [ ] Footer component
