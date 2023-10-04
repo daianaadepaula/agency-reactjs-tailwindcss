@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "./index.html",
+    "./index.html",                                        
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
@@ -12,6 +12,7 @@ export default {
 				'brandPrimary': '#4A4AE6',
 				'neutralGrey': '#717171',
 				'bgCta': '#C8CBE6',
+				'gray900': '#717171',
 			}
 		},
   },
