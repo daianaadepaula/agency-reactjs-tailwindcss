@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import logo from '../assets/logo.svg'
+import logo from '../assets/logo.png'
 import { Link } from 'react-scroll';
 
 import { FaXmark, FaBars } from 'react-icons/fa6';
@@ -49,7 +49,7 @@ export const Navbar = () => {
 
 						<ul className='md:flex space-x-12 hidden'>
 							{
-								navItems.map(({link, path}) => <Link to={path} spy={true} smooth={true} offset={-100} key={path} className='block text-base text-gray900 hover:text-brandPrimary first:font-medium'>{link}</Link>)
+								navItems.map(({link, path}) => <Link to={path} spy={true} smooth={true} offset={-100} key={path} className='block text-base text-gray900 hover:text-brandPrimary first:font-medium cursor-pointer'>{link}</Link>)
 							}
 						</ul>
 

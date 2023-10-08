@@ -26,6 +26,6 @@ This is an responsive website created using React + Vite and Tailwind CSS.
 The project is still in development and the next updates will focus on the following tasks:
 
 - [x] Navbar component
-- [ ] Header component
-- [ ] Home component
+- [x] Header component
+- [x] Home component
 - [ ] Footer component

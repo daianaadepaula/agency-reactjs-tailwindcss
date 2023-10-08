@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.home-btn-primary {
+  @apply px-7 py-2 bg-brandPrimary text-white rounded hover:bg-neutralDGrey transition-all duration-300 hover:-translate-y-4;
+}
+
+.home-h1 {
+  @apply text-4xl text-center font-semibold mb-4 text-neutralDGrey md:w-3/4 md:text-left md:text-5xl leading-snug;
+}
