@@ -28,4 +28,6 @@ The project is still in development and the next updates will focus on the follo
 - [x] Navbar component
 - [x] Header component
 - [x] Home component
+- [x] Services component
+- [ ] About component
 - [ ] Footer component

@@ -13,7 +13,7 @@ export default {
 				'neutralDGrey': '#4D4D4D',
 				'brandPrimary': '#4A4AE6',
 				'neutralGrey': '#717171',
-				'bgCta': '#C8CBE6',
+				'bgNeutral': '#C8CBE6',
 				'gray900': '#717171',
 			}
 		},
