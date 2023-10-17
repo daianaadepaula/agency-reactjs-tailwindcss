@@ -29,5 +29,6 @@ The project is still in development and the next updates will focus on the follo
 - [x] Header component
 - [x] Home component
 - [x] Services component
-- [ ] About component
+- [x] About component
+- [ ] Products component
 - [ ] Footer component

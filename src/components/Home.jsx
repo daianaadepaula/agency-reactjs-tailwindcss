@@ -24,7 +24,7 @@ export const Home = () => {
 								<p className='text-neutralGrey text-base mb-8 text-center md:text-left'>
 									Where to grow your business as a photographer: site or social media?
 								</p>
-								<button className='home-btn-primary'>
+								<button className='btn-primary'>
 									Register
 								</button>
 							</div>
@@ -41,7 +41,7 @@ export const Home = () => {
 								<p className='text-neutralGrey text-base mb-8 text-center md:text-left'>
 									Where to grow your business as a photographer: site or social media?
 								</p>
-								<button className='home-btn-primary'>
+								<button className='btn-primary'>
 									Register
 								</button>
 							</div>
@@ -58,7 +58,7 @@ export const Home = () => {
 								<p className='text-neutralGrey text-base mb-8 text-center md:text-left'>
 									Where to grow your business as a photographer: site or social media?
 								</p>
-								<button className='home-btn-primary'>
+								<button className='btn-primary'>
 									Register
 								</button>
 							</div>
