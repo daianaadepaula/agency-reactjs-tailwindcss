@@ -30,5 +30,7 @@ The project is still in development and the next updates will focus on the follo
 - [x] Home component
 - [x] Services component
 - [x] About component
-- [ ] Products component
+- [x] Products component
+- [ ] Blog component
+- [ ] Newsletter component
 - [ ] Footer component
