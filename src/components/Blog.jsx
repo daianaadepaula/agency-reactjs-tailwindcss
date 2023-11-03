@@ -11,12 +11,12 @@ export const Blog = () => {
       id: 2,
       title:
         "What are your safeguarding responsibilities and how can you manage them?",
-      image: "/src/assets/blog2.png",
+      image: "./../../src/assets/blog2.png",
     },
     {
       id: 3,
       title: "Revamping the Membership Model with Triathlon Australia",
-      image: "/src/assets/blog3.png",
+      image: "../../src/assets/blog3.png",
     },
   ];
 

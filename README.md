@@ -10,6 +10,7 @@ This is an responsive website created using React + Vite and Tailwind CSS.
 ### Built with
 
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- [Flowbite React](https://www.flowbite-react.com/)
 
 ## Technologies used
 
@@ -32,5 +33,5 @@ The project is still in development and the next updates will focus on the follo
 - [x] About component
 - [x] Products component
 - [x] Blog component
-- [ ] Newsletter component
-- [ ] Footer component
+- [x] Newsletter component
+- [x] Footer component

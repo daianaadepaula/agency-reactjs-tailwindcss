@@ -2,6 +2,13 @@ import React from "react";
 import mobileImg from "../assets/mobile.jpg";
 import maecenas from "../assets/maecenas.png";
 
+import company1 from "../assets/company1.svg";
+import company2 from "../assets/company2.svg";
+import company3 from "../assets/company3.svg";
+import company4 from "../assets/company4.svg";
+import company5 from "../assets/company5.svg";
+import company6 from "../assets/company6.svg";
+
 export const Products = () => {
   return (
     <section>
@@ -65,33 +72,33 @@ export const Products = () => {
               <div>
                 <div className="flex items-center gap-8 flex-wrap">
                   <img
-                    src="/src/assets/company1.svg"
-                    alt=""
+                    src={company1}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <img
-                    src="/src/assets/company2.svg"
-                    alt=""
+                    src={company2}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <img
-                    src="/src/assets/company3.svg"
-                    alt=""
+                    src={company3}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <img
-                    src="/src/assets/company4.svg"
-                    alt=""
+                    src={company4}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <img
-                    src="/src/assets/company5.svg"
-                    alt=""
+                    src={company5}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <img
-                    src="/src/assets/company6.svg"
-                    alt=""
+                    src={company6}
+                    alt="Logo das empresas"
                     className="cursor-pointer"
                   />
                   <div className="flex items-center gap-8">
